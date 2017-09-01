@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="cgpa_calculator.Home"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:cgpa_calculator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/blue_bg.jpg"
+                    Stretch="UniformToFill" />
+        </Grid.Background>
+        <Button x:ConnectionId='1' x:Name="Calculate_Gpa_Btn" Content="Calculate GPA" HorizontalAlignment="Left" Margin="544.071,140,0,0" VerticalAlignment="Top" Width="327.649" RenderTransformOrigin="0.5,0.5" Height="75.992" UseLayoutRounding="False" d:LayoutRounding="Auto" Background="#FF3333B0"                                 FontSize="20">
+            <Button.RenderTransform>
+                <CompositeTransform SkewX="-1.208" TranslateX="-0.601"/>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:ConnectionId='2' x:Name="About_Btn" Content="About" HorizontalAlignment="Left" Margin="544.071,240,0,0" VerticalAlignment="Top" Width="327.649" RenderTransformOrigin="0.5,0.5" Height="75.992" UseLayoutRounding="False" d:LayoutRounding="Auto" Background="#FF3E9793"                         FontSize="20">
+            <Button.RenderTransform>
+                <CompositeTransform SkewX="-1.208" TranslateX="-0.601"/>
+            </Button.RenderTransform>
+        </Button>
+
+        <Button x:ConnectionId='3' x:Name="Help_Btn" Content="Help" HorizontalAlignment="Left" Margin="544.071,340,0,0" VerticalAlignment="Top" Width="327.649" RenderTransformOrigin="0.545,1.866" Height="75.992" UseLayoutRounding="False" d:LayoutRounding="Auto" Background="#FFDE174D"                        FontSize="20">
+            <Button.RenderTransform>
+                <CompositeTransform SkewX="-1.208" TranslateX="-2.676"/>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:ConnectionId='4' x:Name="Exit_Btn" Content="Exit" HorizontalAlignment="Left" Margin="544.071,440.008,0,0" VerticalAlignment="Top" Width="327.648" RenderTransformOrigin="0.5,0.5" Height="75.992" UseLayoutRounding="False" d:LayoutRounding="Auto" Background="#FFC3171F"                        FontSize="20">
+            <Button.RenderTransform>
+                <CompositeTransform SkewX="-1.208" TranslateX="-0.601"/>
+            </Button.RenderTransform>
+        </Button>
+    </Grid>
+</Page>
+

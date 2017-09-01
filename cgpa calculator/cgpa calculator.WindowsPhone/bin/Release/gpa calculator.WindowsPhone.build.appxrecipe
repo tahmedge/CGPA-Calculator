@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TAHMID</Machine>
+    <WindowsUser>Tahmid Rahman</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>941c00f0-d720-419d-badd-1556aebc9646</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Release\cgpa calculator.WindowsPhone.exe">
+      <PackagePath>cgpa calculator.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\150150.jpg">
+      <PackagePath>Assets\150150.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\150150x.jpg">
+      <PackagePath>Assets\150150x.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\30.jpg">
+      <PackagePath>Assets\30.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\310150.jpg">
+      <PackagePath>Assets\310150.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\50.jpg">
+      <PackagePath>Assets\50.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\620300.jpg">
+      <PackagePath>Assets\620300.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\blue_bg.jpg">
+      <PackagePath>Assets\blue_bg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\images1.jpg">
+      <PackagePath>Assets\images1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\logofinal.jpg">
+      <PackagePath>Assets\logofinal.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\opening.jpg">
+      <PackagePath>Assets\opening.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\opening2.jpg">
+      <PackagePath>Assets\opening2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\path-background.jpg">
+      <PackagePath>Assets\path-background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\photo.jpg">
+      <PackagePath>Assets\photo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\images.jpg">
+      <PackagePath>Assets\images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\150150.png">
+      <PackagePath>Assets\150150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\3030.png">
+      <PackagePath>Assets\3030.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\4444.png">
+      <PackagePath>Assets\4444.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\480800.png">
+      <PackagePath>Assets\480800.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\5050.png">
+      <PackagePath>Assets\5050.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\7171.png">
+      <PackagePath>Assets\7171.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\images.png">
+      <PackagePath>Assets\images.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Release\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Release\EnterCgpa.xbf">
+      <PackagePath>EnterCgpa.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Release\FinalResult.xbf">
+      <PackagePath>FinalResult.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Release\Help.xbf">
+      <PackagePath>Help.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Release\Home.xbf">
+      <PackagePath>Home.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Release\cgpa calculator.WindowsPhone.xr.xml">
+      <PackagePath>cgpa calculator.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
