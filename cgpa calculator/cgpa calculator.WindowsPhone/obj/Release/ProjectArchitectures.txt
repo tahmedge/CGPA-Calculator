@@ -1,0 +1,1 @@
+C:\Users\Tahmid Rahman\Documents\Visual Studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\gpa calculator.WindowsPhone.csproj;neutral

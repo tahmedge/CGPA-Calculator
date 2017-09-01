@@ -1,0 +1,42 @@
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Debug\EnterCgpa.xbf
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Debug\FinalResult.xbf
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Debug\cgpa calculator.WindowsPhone.xr.xml
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Debug\cgpa calculator.WindowsPhone.exe
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Debug\cgpa calculator.WindowsPhone.pdb
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\bin\Debug\gpa calculator.WindowsPhone.build.appxrecipe
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\EnterCgpa.g.i.cs
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\EnterCgpa.g.cs
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\FinalResult.g.i.cs
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\FinalResult.g.cs
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\EnterCgpa.xaml
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\FinalResult.xaml
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\EnterCgpa.xbf
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\FinalResult.xbf
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\cgpa calculator.WindowsPhone.exe
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\cgpa calculator.WindowsPhone.pdb
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Tahmid Rahman\documents\visual studio 2013\Projects\cgpa calculator\cgpa calculator\cgpa calculator.WindowsPhone\obj\Debug\ProjectArchitectures.txt

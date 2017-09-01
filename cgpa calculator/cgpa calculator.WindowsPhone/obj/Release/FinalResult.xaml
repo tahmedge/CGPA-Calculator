@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="cgpa_calculator.FinalResult"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:cgpa_calculator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Background="#FF3E3737">
+
+    <Grid>
+        <TextBlock x:Name="finalresulttext" HorizontalAlignment="Left" Margin="25,83,0,0" TextWrapping="Wrap" Text="Your Gpa is" VerticalAlignment="Top" Height="36" Width="290" FontSize="25" FontFamily="Tekton Pro Ext"/>
+        <ListView x:Name="ListView1" Margin="25,145,10,72" FontSize="600" FontWeight="Bold">
+
+        </ListView>
+        <Button x:ConnectionId='1' x:Name="close" Content="Close"  HorizontalAlignment="Left" Margin="281,0,0,0" VerticalAlignment="Top" Background="#FFB20A0A"                      Height="63"/>
+        <Button x:ConnectionId='2' x:Name="Home_Btn" Content="Home" HorizontalAlignment="Left" Margin="21.567,0.333,0,0" VerticalAlignment="Top" Width="109.039" RenderTransformOrigin="0.5,0.5" Height="62.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Background="#FF349930"                        FontSize="20">
+            <Button.RenderTransform>
+                <CompositeTransform SkewX="-1.208" TranslateX="-0.601"/>
+            </Button.RenderTransform>
+        </Button>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/images.png"
+                    Stretch="UniformToFill" />
+        </Grid.Background>
+
+    </Grid>
+</Page>
+
